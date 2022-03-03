@@ -1,6 +1,10 @@
-Men det her er vores egen.
-# Maintainers for Library Carpentry: R
- 
+# Maintainers for Library Carpentry: R for the Royal Danish Library
+
+- [Christian Knudsen]() (Lead)
+- [Ene Rammer](https://github.com/enerammer)
+- [Henrik Hornemann](https://github.com/hornemann)
+
+## This is a customized fork of the Library Carpentry R lessons, maintained by: 
 - [Clarke Iakovakis](https://github.com/ciakovx) (Lead)
 - [John Little](https://github.com/libjohn)
 - [Stéphane Guillou](https://github.com/stragu)
